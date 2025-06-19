@@ -1,6 +1,6 @@
 # Stellar type classification machine learning Streamlit app
 
-This project is a machine learning application for predicting stellar types (Galaxy, Star, Quasar) using Streamlit app. The model is trained on a real astronomical dataset and allows users to input stellar parameters to receive instant predictions.
+This project is a machine learning application for predicting stellar types (Galaxy, Star, Quasar) using Streamlit app. The model is trained on a real astronomical dataset and allows scientists or different users to input stellar parameters to receive instant predictions.
 
 ---
 
